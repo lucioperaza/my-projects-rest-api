@@ -22,6 +22,20 @@
       "when": 1775695763727,
       "tag": "0002_slimy_apocalypse",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1776563370992,
+      "tag": "0003_optimal_blue_shield",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1776563483183,
+      "tag": "0004_confused_abomination",
+      "breakpoints": true
     }
   ]
 }
