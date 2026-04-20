@@ -24,7 +24,7 @@ app.use(
       return {
         error: {
           code: 'TOO_MANY_REQUESTS',
-          message: 'Too many requests, please try again later.',
+          message: 'Too many requests, please try again later please.',
           details: [],
           trace_id: c.get('traceId'),
         },
