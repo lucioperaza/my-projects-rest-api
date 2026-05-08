@@ -21,4 +21,7 @@
       },
     },
   ],
+  "vars": {
+    "ALLOWED_ORIGINS": "https://my-projects-vue.lucio-peraza54.workers.dev",
+  },
 }
